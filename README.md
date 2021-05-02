@@ -1,5 +1,7 @@
 # G-DOCS-CLONE
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8371e3a1-19e3-4e3c-a706-9453f10bf8a2/deploy-status)](https://app.netlify.com/sites/g-docs/deploys)
+
 **This is a minimalistic clone of google docs, Just share the link in
 the URL with your fellow mates and enjoy 👌 real-time updates. G-DOCS is
 powered by socket.io and MongoDB Atlas on backend servers of Hereko
@@ -12,6 +14,11 @@ and on Frontend it's all React, React-Router, and Quill Text Editor**
 ### Screenshot
 
 ![alt text](https://firebasestorage.googleapis.com/v0/b/sushil-kamble.appspot.com/o/projects%2Fg-docs.jpg?alt=media&token=a7a93654-ee8b-4c26-970f-00a13f7559ad "Home Page")
+
+### Features
+
+- Realtime updates
+- Invite anyone by just sharing the URL
 
 ### Setup
 
