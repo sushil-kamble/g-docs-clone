@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <div className="footer">
       <a href="/">
-        <button class="btn-cos">New Document</button>
+        <button className="btn-cos">New Document</button>
       </a>
 
       <div
@@ -14,10 +14,10 @@ export default function Footer() {
         }}
       >
         <h3>
-          This is minimalistic clone of google docs, Just share the link in the
-          url with your fellow mates and enjoy realtime updates. G-DOCS is
-          powered by socket.io and mongoDb Atlas on backend servers of Hereko
-          and on Frontend its all React, React-Router and Quill Text Editor.
+          This is a minimalistic clone of google docs, Just share the link in
+          the URL with your fellow mates and enjoy real-time updates. G-DOCS is
+          powered by socket.io and MongoDB Atlas on backend servers of Hereko
+          and on Frontend it's all React, React-Router, and Quill Text Editor.
         </h3>
       </div>
       <div>
