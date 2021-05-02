@@ -15,7 +15,7 @@ export default function Footer() {
       >
         <h3>
           This is minimalistic clone of google docs, Just share the link in the
-          url with your fellow mates and enjoy realtime updates. G-DOC is
+          url with your fellow mates and enjoy realtime updates. G-DOCS is
           powered by socket.io and mongoDb Atlas on backend servers of Hereko
           and on Frontend its all React, React-Router and Quill Text Editor.
         </h3>
