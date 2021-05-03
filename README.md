@@ -1,15 +1,14 @@
 # G-DOCS-CLONE
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8371e3a1-19e3-4e3c-a706-9453f10bf8a2/deploy-status)](https://app.netlify.com/sites/g-docs/deploys)
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" /> <img alt="React Router" src="https://img.shields.io/badge/React Router-CA4245?style=plastic&logo=react-router&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" /> <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=plastic&logo=socket.io&logoColor=white" /> <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white" /> [<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" />](https://www.heroku.com/)
 
-**This is a minimalistic clone of google docs, Just share the link in
-the URL with your fellow mates and enjoy 👌 real-time updates. G-DOCS is
-powered by socket.io and MongoDB Atlas on backend servers of Hereko
-and on Frontend it's all React, React-Router, and Quill Text Editor**
+**This is a minimalistic clone of google docs 📃, Just share the link in
+the URL 🔗 with your fellow mates and enjoy real-time updates 😎**
 
 ### Link
 
-**[G-DOCS-CLONE (CLick Here)](https://g-docs.netlify.app/)**
+**[G-DOCS-CLONE (Click Here)](https://g-docs.netlify.app/)**
 
 ### Screenshot
 

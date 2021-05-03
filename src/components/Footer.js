@@ -16,7 +16,7 @@ export default function Footer() {
         <h3>
           This is a minimalistic clone of google docs, Just share the link in
           the URL with your fellow mates and enjoy real-time updates. G-DOCS is
-          powered by socket.io and MongoDB Atlas on backend servers of Hereko
+          powered by socket.io and MongoDB Atlas on backend servers of Heroko
           and on Frontend it's all React, React-Router, and Quill Text Editor.
         </h3>
       </div>
@@ -26,6 +26,7 @@ export default function Footer() {
             href="https://sushil-kamble.netlify.app/"
             rel="noopener"
             target="_black"
+            style={{ marginBottom: "50px" }}
           >
             Sushil Kamble
           </a>

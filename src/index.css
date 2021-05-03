@@ -16,7 +16,7 @@ body {
 .container .ql-editor {
   width: 8.5in;
   min-height: 11in;
-  padding: 1in;
+  padding: 0.6in;
   margin: 1rem;
   box-shadow: 0 0 14px 0 var(--base);
   border: 2px solid var(--base);
@@ -66,7 +66,8 @@ body {
 /* FOOTER */
 .footer {
   text-align: center;
-  margin: 20px 0 40px 0;
+  margin: 20px 0 10px 0;
+  padding: 30px;
 }
 .btn-cos {
   height: 40px;
