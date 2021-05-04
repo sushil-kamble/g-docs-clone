@@ -1,4 +1,3 @@
-// https://dashboard.heroku.com/apps/g-doc
 require("dotenv").config();
 const mongoose = require("mongoose");
 const express = require("express");
@@ -19,10 +18,13 @@ const connectionParams = {
   useFindAndModify: false
 };
 mongoose.connect(url, connectionParams);
+const origin = process.env.PORT
+  ? "https://g-docs.netlify.app"
+  : "http://localhost:3000";
 
 const io = require("socket.io")(server, {
   cors: {
-    origin: "http://localhost:3000",
+    origin: origin,
     methods: ["GET", "POST"]
   }
 });

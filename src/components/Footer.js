@@ -13,6 +13,10 @@ export default function Footer() {
           fontFamily: "monospace, monospace"
         }}
       >
+        <h2>CTRL/CMD + S - To Save</h2>
+        <h4>Save button is on top for mobile</h4>
+        <p>Green - Saved To Database</p>
+        <p>Red - Not Saved To Database</p>
         <h3>
           This is a minimalistic clone of google docs, Just share the link in
           the URL with your fellow mates and enjoy real-time updates. G-DOCS is
